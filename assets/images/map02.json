@@ -1,0 +1,92 @@
+{"frames": {
+
+"map02001":
+{
+	"frame": {"x":3,"y":3,"w":384,"h":576},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":576},
+	"sourceSize": {"w":384,"h":576}
+},
+"map02001a":
+{
+	"frame": {"x":391,"y":779,"w":288,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":240},
+	"sourceSize": {"w":288,"h":240}
+},
+"map02001b":
+{
+	"frame": {"x":683,"y":779,"w":288,"h":240},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":240},
+	"sourceSize": {"w":288,"h":240}
+},
+"map02001c":
+{
+	"frame": {"x":343,"y":1023,"w":288,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":240},
+	"sourceSize": {"w":288,"h":240}
+},
+"map02001d":
+{
+	"frame": {"x":343,"y":1267,"w":288,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":240},
+	"sourceSize": {"w":288,"h":240}
+},
+"map02001f":
+{
+	"frame": {"x":635,"y":1071,"w":288,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":240},
+	"sourceSize": {"w":288,"h":240}
+},
+"map02001g":
+{
+	"frame": {"x":3,"y":1019,"w":336,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":336,"h":384},
+	"sourceSize": {"w":336,"h":384}
+},
+"map02001h":
+{
+	"frame": {"x":3,"y":583,"w":432,"h":384},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":432,"h":384},
+	"sourceSize": {"w":432,"h":384}
+},
+"map02002":
+{
+	"frame": {"x":391,"y":3,"w":384,"h":576},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":576},
+	"sourceSize": {"w":384,"h":576}
+},
+"map02003":
+{
+	"frame": {"x":391,"y":391,"w":384,"h":576},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":576},
+	"sourceSize": {"w":384,"h":576}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "map02.png",
+	"format": "RGBA8888",
+	"size": {"w":970,"h":1510},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:971649a578772361dadcfe12b6316e77:858da5a54b4de02c2fd8ba5775aad43e:b0d6bf51fdbce5d4386377267a2a5495$"
+}
+}

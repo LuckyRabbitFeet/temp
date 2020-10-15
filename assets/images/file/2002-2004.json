@@ -1,0 +1,89 @@
+{"frames": {
+
+"2002_e-0":
+{
+	"frame": {"x":3,"y":261,"w":108,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":42},
+	"sourceSize": {"w":108,"h":42}
+},
+"2002_e-1":
+{
+	"frame": {"x":3,"y":307,"w":108,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":42},
+	"sourceSize": {"w":108,"h":42}
+},
+"2002_e-2":
+{
+	"frame": {"x":3,"y":353,"w":108,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":42},
+	"sourceSize": {"w":108,"h":42}
+},
+"2003_e-0":
+{
+	"frame": {"x":3,"y":141,"w":112,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":36},
+	"sourceSize": {"w":112,"h":36}
+},
+"2003_e-1":
+{
+	"frame": {"x":3,"y":181,"w":112,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":36},
+	"sourceSize": {"w":112,"h":36}
+},
+"2003_e-2":
+{
+	"frame": {"x":3,"y":221,"w":112,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":36},
+	"sourceSize": {"w":112,"h":36}
+},
+"2004_e-0":
+{
+	"frame": {"x":3,"y":3,"w":112,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":42},
+	"sourceSize": {"w":112,"h":42}
+},
+"2004_e-1":
+{
+	"frame": {"x":3,"y":49,"w":112,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":42},
+	"sourceSize": {"w":112,"h":42}
+},
+"2004_e-2":
+{
+	"frame": {"x":3,"y":95,"w":112,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":42},
+	"sourceSize": {"w":112,"h":42}
+}},
+"animations": {
+	"2002_e": ["2002_e-0","2002_e-1","2002_e-2","2002_e-1","2002_e-0"],
+	"2003_e": ["2003_e-0","2003_e-1","2003_e-2","2003_e-1","2003_e-0"],
+	"2004_e": ["2004_e-0","2004_e-1","2004_e-2","2004_e-1","2004_e-0"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "2002-2004.png",
+	"format": "RGBA8888",
+	"size": {"w":118,"h":398},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ee7ee620879a3987b9f4cd6d7237dab7:7fe01de401c6e026e85e3f19d6c59904:e8f91c8e6ef0e99310dc9f506f9b1198$"
+}
+}
