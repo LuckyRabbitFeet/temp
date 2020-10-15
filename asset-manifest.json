@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.cf820b91.chunk.css",
-    "main.js": "./static/js/main.315635ed.chunk.js",
-    "main.js.map": "./static/js/main.315635ed.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.9612f295.js",
-    "runtime-main.js.map": "./static/js/runtime-main.9612f295.js.map",
-    "static/css/2.764ccc25.chunk.css": "./static/css/2.764ccc25.chunk.css",
-    "static/js/2.a9e7cbea.chunk.js": "./static/js/2.a9e7cbea.chunk.js",
-    "static/js/2.a9e7cbea.chunk.js.map": "./static/js/2.a9e7cbea.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.cfbea0226010746223a43b21643a93b2.js": "./precache-manifest.cfbea0226010746223a43b21643a93b2.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.764ccc25.chunk.css.map": "./static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.cf820b91.chunk.css.map": "./static/css/main.cf820b91.chunk.css.map",
-    "static/js/2.a9e7cbea.chunk.js.LICENSE.txt": "./static/js/2.a9e7cbea.chunk.js.LICENSE.txt"
+    "main.css": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/static/css/main.cf820b91.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/static/js/main.b10f96a6.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/static/js/main.b10f96a6.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/static/js/runtime-main.044e6359.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/static/js/runtime-main.044e6359.js.map",
+    "static/css/2.764ccc25.chunk.css": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/static/css/2.764ccc25.chunk.css",
+    "static/js/2.a9e7cbea.chunk.js": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/static/js/2.a9e7cbea.chunk.js",
+    "static/js/2.a9e7cbea.chunk.js.map": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/static/js/2.a9e7cbea.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/index.html",
+    "precache-manifest.6bed8bbd1f4eee90851a906a3a83f776.js": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/precache-manifest.6bed8bbd1f4eee90851a906a3a83f776.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.cf820b91.chunk.css.map": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/static/css/main.cf820b91.chunk.css.map",
+    "static/js/2.a9e7cbea.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/LuckyRabbitFeet/temp@main/static/js/2.a9e7cbea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9612f295.js",
+    "static/js/runtime-main.044e6359.js",
     "static/css/2.764ccc25.chunk.css",
     "static/js/2.a9e7cbea.chunk.js",
     "static/css/main.cf820b91.chunk.css",
-    "static/js/main.315635ed.chunk.js"
+    "static/js/main.b10f96a6.chunk.js"
   ]
 }
